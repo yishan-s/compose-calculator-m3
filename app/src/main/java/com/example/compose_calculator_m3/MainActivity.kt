@@ -8,7 +8,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Scaffold
 import androidx.compose.ui.Modifier
-import com.example.compose_calculator_m3.ui.CalculatorScreen
+import com.example.compose_calculator_m3.ui.calculator.CalculatorScreen
 import com.example.compose_calculator_m3.ui.theme.AppTheme
 
 class MainActivity : ComponentActivity() {
