@@ -9,9 +9,9 @@
 
 ## Project Status
 - [x] Project Initialization (Empty Activity)
-- [ ] UI Development (Material 3 Calculator Layout)
-- [ ] Calculator Logic Implementation (Arithmetic Operations)
-- [ ] State Management with ViewModels
+- [x] UI Development (Material 3 Calculator Layout)(but no responsive UI for now qq)
+- [x] Calculator Logic Implementation (Arithmetic Operations)
+- [x] State Management with ViewModels
 - [ ] History Management (Room Database integration)
 - [ ] Interactive History (Re-edit from past entries)
 
