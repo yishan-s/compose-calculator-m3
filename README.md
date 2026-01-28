@@ -22,7 +22,7 @@
 - **Adaptive Theme:** Full support for Material You (Dynamic Color) and Dark Mode.
 
 ## Screenshots 
-*Work in Progress...*
+![pic_01](docs/pic_01.png)
 
 ## Quick Start
 1. **Clone this Repository**
