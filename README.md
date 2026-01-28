@@ -22,7 +22,7 @@
 - **Adaptive Theme:** Full support for Material You (Dynamic Color) and Dark Mode.
 
 ## Screenshots 
-![pic_01](docs/pic_01.png)
+<img src="docs/pic_01.png" width="400" alt="應用程式截圖 - 直向">
 
 ## Quick Start
 1. **Clone this Repository**
