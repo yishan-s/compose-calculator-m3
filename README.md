@@ -1,4 +1,4 @@
-# Project Name
+# Compose Calculator Material 3
 > 使用 Jetpack Compose 與 Material 3 設計的計算機，練習架構與狀態管理。
 
 ## Tech Stack
@@ -22,7 +22,7 @@
 - **Adaptive Theme:** Full support for Material You (Dynamic Color) and Dark Mode.
 
 ## Screenshots 
-<img src="docs/pic_01.png" width="400" alt="應用程式截圖 - 直向">
+<img src="docs/pic_01.png" width="200" alt="應用程式截圖 - 直向">
 
 ## Quick Start
 1. **Clone this Repository**
